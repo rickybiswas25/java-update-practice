@@ -22,8 +22,8 @@ public class BubbleSortUnitTest {
 
     @Test
     void testBubbleSort() {
-        int[] array = new int[]{5, 12, 55, 34, 65, -1, 23, 45};
-        int[] resultedArray = new int[]{-1, 5, 12, 23, 34, 45, 55, 65};
+        int[] array = {5, 12, 55, 34, 65, -1, 23, 45};
+        int[] resultedArray = {-1, 5, 12, 23, 34, 45, 55, 65};
         int[] sortedArray = this.sorting.sort(array);
         assertArrayEquals(resultedArray, sortedArray);
     }
