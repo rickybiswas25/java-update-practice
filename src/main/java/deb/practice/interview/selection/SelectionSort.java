@@ -9,12 +9,11 @@ import java.util.Arrays;
 public class SelectionSort {
 
     public int[] sort(int[] array) {
-        int currentIndex = 0;
-        int largest = currentIndex;
+        int largest = 0;
         int unsortedIndex = array.length -1;
         do {
 
-            for (int i = currentIndex; i <= unsortedIndex; i++) {
+            for (int i = 0; i <= unsortedIndex; i++) {
                 if (array[largest] < array[i]) {
                      largest = i;
                 }
