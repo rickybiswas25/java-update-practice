@@ -1,6 +1,5 @@
 package selectionsort;
 
-import deb.practice.interview.bubblesort.BubbleSort;
 import deb.practice.interview.selection.SelectionSort;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

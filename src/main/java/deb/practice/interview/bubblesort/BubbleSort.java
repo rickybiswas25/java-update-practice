@@ -1,8 +1,5 @@
 package deb.practice.interview.bubblesort;
 
-import java.util.Arrays;
-import java.util.stream.IntStream;
-
 /**
  * Created by Deb
  * Date : 1/12/2023

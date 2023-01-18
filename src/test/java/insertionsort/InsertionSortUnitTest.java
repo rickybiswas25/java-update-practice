@@ -1,6 +1,5 @@
 package insertionsort;
 
-import deb.practice.interview.bubblesort.BubbleSort;
 import deb.practice.interview.insertionsort.InsertionSort;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

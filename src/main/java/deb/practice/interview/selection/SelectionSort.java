@@ -1,7 +1,5 @@
 package deb.practice.interview.selection;
 
-import java.util.Arrays;
-
 /**
  * Created by Deb
  * Date : 1/12/2023
